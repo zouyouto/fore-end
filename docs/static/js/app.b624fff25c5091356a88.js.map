@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/app.b624fff25c5091356a88.js","sources":["webpack:///./src/router/_import_production.js"],"sourcesContent":["module.exports = file => () => import('@/views/' + file + '.vue')\n\n\n// WEBPACK FOOTER //\n// ./src/router/_import_production.js"],"mappings":"AAAA","sourceRoot":""}

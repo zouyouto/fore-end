@@ -1,0 +1,37 @@
+html,body,#app{margin:0;padding:0;width: 100%;height: 100%;overflow: hidden;}
+::-webkit-scrollbar { width: 6px; height: 6px; }/* Track & scroll thickness */
+::-webkit-scrollbar-track { background-color:#fff; }/* Track color */
+::-webkit-scrollbar-thumb { background-color: #ccc;border-radius: 6px;}/* Scroll color */
+::-webkit-scrollbar-thumb:hover { background-color: #ccc }/* Scroll hover color */
+::-webkit-scrollbar-thumb:active { background-color: #ccc }/* Scroll click & drag color */
+.el-input-group__append, .el-input-group__prepend, .el-input__inner{padding: 0 6px;}
+.el-button--mini, .el-button--mini.is-round{padding: 6px 8px;}
+.inputwinth122{width: 122px}
+.inputwinth150{width: 150px}
+.inputwinth192{width: 192px}
+.inputwinth240{width: 240px}
+.inputwinth260{width: 260px}
+.inputwinth295{width: 295px}
+.inputwinth397{width: 397px}
+.el-menu-item{height: 36px;line-height: 36px}
+.el-table--mini td, .el-table--mini th {padding: 0 0;}
+.el-table{margin-top: 10px;}
+.el-pagination{text-align: center;padding: 6px;}
+.el-dialog__header,.el-dialog__body,.el-dialog__footer{padding: 10px;}
+.el-dialog__headerbtn{right: 10px;top: 10px;font-size: 26px;}
+.el-table .cell{ height: 28px;line-height: 28px;}
+.el-button--medium{padding: 6px 0px;}
+.el-table__expand-icon{height: 28px;}
+.el-table__expanded-cell[class*=cell]{padding: 10px 50px}
+.el-form-item{margin-bottom: 6px;}
+.el-table .warning-row {background: oldlace;}
+.el-table .success-row {background: #f0f9eb;}
+.el-radio+.el-radio{margin-left: 10px;}
+.el-radio__label{padding-left: 6px;}
+.el-tabs--card>.el-tabs__header .el-tabs__item.is-active.is-closable .el-icon-close, .el-tabs--card>.el-tabs__header .el-tabs__item.is-closable:hover .el-icon-close{width: 20px;height: 20px;line-height: 20px;font-size: 20px;}
+.el-form-item--mini.el-form-item, .el-form-item--small.el-form-item{margin-bottom: 10px;}
+.el-dialog__body{padding-top: 0px;padding-bottom: 0px;}
+.el-dialog__footer{padding-top: 0px;padding-right: 15px;}
+.el-form-item--mini .el-form-item__error{padding-left: 30px}
+.el-checkbox+.el-checkbox{margin-left:10px}
+.txtaligncenter{text-align: center}
