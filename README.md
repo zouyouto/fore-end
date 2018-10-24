@@ -19,6 +19,7 @@ npm run build --report
 ```
 
 https://zouyouto.github.io/fore-end/index.html#/login
+用户名:root 密码:admin123
 
 > 捐赠：
 
