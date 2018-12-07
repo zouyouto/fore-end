@@ -19,7 +19,7 @@ npm run build --report
 ```
 
 # https://zouyouto.github.io/fore-end/index.html#/login
-http://106.12.211.124:8080/zsy-crm/index.html#/login
+http://www.zsyai.top/zsy-crm/dist/index.html#/login 
 用户名:root 密码:admin123
 
 > 捐赠：
