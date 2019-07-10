@@ -1,0 +1,2 @@
+webpackJsonp([23],{W6ha:function(t,e,r){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var n={render:function(){var t=this.$createElement,e=this._self._c||t;return e("el-row",[e("iframe",{staticStyle:{margin:"0px",padding:"0px",width:"100%","min-height":"750px"},attrs:{src:this.srcUrl,frameborder:"0"}})])},staticRenderFns:[]},a=r("VU/8")({data:function(){return{srcUrl:"http://localhost:6060/swagger-ui.html"}}},n,!1,null,null,null);e.default=a.exports}});
+//# sourceMappingURL=23.fe774cf85d56916b32e8.js.map
